@@ -1,0 +1,3 @@
+[submodule "scripts/node"]
+	path = scripts/node
+	url = https://github.com/meth/node-debian
